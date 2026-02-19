@@ -1,4 +1,11 @@
-**/target/
-**/node_modules
-**/dist
-**/build
+target/
+Cargo.lock
+node_modules/
+dist/
+build/
+**/*.rs.bk
+.DS_Store
+*.swp
+*.swo
+.vscode/
+
